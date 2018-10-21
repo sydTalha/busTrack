@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>220437E8-1A18-4DE7-BB41-2DB3DA92B871</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>220437E8-1A18-4DE7-BB41-2DB3DA92B871.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>busTrack project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>busTrack</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace busTrack with scheme busTrack and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561743864.14751303</real>
+			<key>timeStoppedRecording</key>
+			<real>561743877.98658395</real>
+			<key>title</key>
+			<string>Building workspace busTrack with scheme busTrack and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>220437E8-1A18-4DE7-BB41-2DB3DA92B871</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
